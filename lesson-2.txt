@@ -1,0 +1,9 @@
+- git init: khoi tao thu muc duoc quan ly boi git
+- git add <...>: them 1 file vao vung staging
+- git add . : dduwa toanf booj phair veef vungf staging
+-git commit -m"message": tao 1 commit voi noi dung <message></message>
+
+
+- working directory: file 2,3
+- staging: 0
+- repo: file1
